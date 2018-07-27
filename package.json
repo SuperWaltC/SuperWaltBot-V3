@@ -1,0 +1,11 @@
+{
+  "name": "swb",
+  "version": "0.0.1",
+  "description": "Super's helper",
+  "main": "bot.js",
+  "author": "Walter",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
